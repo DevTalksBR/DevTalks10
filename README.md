@@ -2,7 +2,7 @@
 
 ## Chatbot: o que comem, onde vivem e porque falar sobre.
 
-### Matheus Costa @Fintechdev
+### Maicon Domingues @NewWay
 
 ### Data/hora: 20/07, 19h
 ### Local: eSapiens
